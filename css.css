@@ -1,0 +1,282 @@
+.outer{
+    width: 1200px;
+        background-color:#ccc;
+    margin:justify;
+
+}
+.header
+{height: 150px;
+width:1200px ;
+background-color:#009;
+}
+.logo{
+
+width:100px;
+height:100px;
+background-color:yellow;
+float:left;
+margin:25px 50px  ;
+border-radius: 60px ;
+transition:2s;
+margin:6px;
+border-radius:50%;
+border: 5px solid;
+}
+.logo img{
+           
+    border-radius:50%;
+
+
+
+}
+.hleft:hover{
+    margin: 25px 0 0 100px;
+    transition: 3s;
+
+}
+.hright
+{
+height:60px;
+width:600px;
+border:1px solid red;
+background-color:#fff;
+margin:10px 50px 0 0px;
+text-align: centre;
+float:right;
+border-radius:15px ;
+font-size:20px;
+font-style:normal;
+font-weight: bold;
+padding:10px;
+box-sizing: border-box;
+}
+.name{
+background-color:navy;
+height:100px;
+width:700px;
+margin:25px 50px 0px 0px;
+float:right;
+font-size:20px;
+font-style:ilatlic;
+font-weight:bold;
+border-radius:20px 0px 20px 0px;
+color:white;
+}
+
+
+
+.hright:hover{
+width:600px;
+height:100px;
+padding-top: 10px ;
+background-color:bb0;
+font-size:20px;
+color:red;
+transition: 3s;
+box-sizing:border-box;
+font-weight: bold;
+}
+.menubar
+{
+
+width:1200px;
+height: 50px;
+background-color:lightgreen;
+
+}
+.menus{
+    width:100px;
+    height: 40px;
+    float: left;
+    background-color: #009;
+    margin:5px 10 0 40px;
+    border-radius:6px;
+    color:#fff;
+    text-align:center;
+    text-decoration:solid;
+    box-sizing:border-box;
+    padding:10px;
+    font-style: bold italic;
+    }
+    
+    
+.menus:hover{
+
+ background-color:#bb0;
+color:rgb(205, 50, 50);
+border-radius: 50px;
+}
+
+
+
+
+.image img{
+    border:10px solid;
+border-radius:1px;}
+.gimages{
+    margin: 5px;
+    border-radius: 20%;
+    border: black;
+    background-color:green;
+
+}
+.map
+{
+    height:300px;
+    width:1200px;
+    border:1px #000;
+}
+.slider{
+    width:1200px;
+    height:300px;
+    background-color:#eee;   
+    }
+.body{
+
+    background-color:#eee ;
+    margin: 2px ;
+}
+.main{
+    width:1200px;
+    float:left;
+    background-color:#fff;
+}
+.mleft{
+    width:250px;
+    height:465px;
+    background-color:#ecdd0c;
+    float:left;
+    border:2px solid green;
+
+}
+.lmenus{
+width: 150px;
+height: 40px ;  
+margin: 30px 50px;  
+text-align: center;    
+background-color: #ca6666;
+padding: top 14px;
+color:cyan;
+box-sizing:border-box;
+margin:30px 50px;
+border-radius: 50px;
+}
+.mright{
+width:950px;
+min-height:450px;
+background-color:#fff;
+float:right;
+text-align:justify;
+margin:10px 10px 5px -10px
+box-sizing:border-box;
+border-left:1px dotted #000;
+
+
+
+}
+red{
+    color: red;
+
+
+
+}
+.curow{
+    width:300px;
+    height:40px;
+    border-radius:10px;
+    background-color:lightlategrey;
+}
+.mright :culeft{
+width:70px;
+float:right;
+background-color:#ffffff00;
+height:30px;
+margin:0px 10px 10px -10px;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+
+
+
+.mright: curight{
+
+width:700px;
+
+float:right;
+background-color:#fff;
+height:30px;
+margin:1px 10px 0px-10px;
+box-sizing: border-box;
+border-left: solid #000 1px;
+padding:5px;
+
+
+}
+ht100{
+    height:100px;
+    
+}
+
+.text{height:50px;
+        width:300px;
+     
+
+
+    }
+
+    height:100px;
+    width:100px
+}
+.box
+{
+height:500px;
+width:1200px;
+background:blue;}
+
+
+.footer{
+width:1200px;
+height:175px;
+background-color:rgb(67, 67, 241);
+clear:both;
+color:antiquewhite;
+border-right: 1px solid#fff;
+
+border-color:black;
+box-sizing: border-box;
+}
+.fleft
+{
+    margin:0px 0px 0px 440px;
+}
+.fmenus{
+    float:left;
+    height: 40px;
+    box-sizing: border-box;
+    margin: 50px 0 0 50px;
+    border-right: 1px solid  white;
+}
+.mhright
+{
+    background-color: #fff;
+    height:450px;
+    width:1200px;
+}
+.gimages
+{
+    float:left;
+    height:160px;
+    width:300px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center:
+}
+.submit{
+
+    background-color: green;
+    color: #ccc;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+}
